@@ -10,15 +10,16 @@ Canlı Uygulama: [https://15aliozkan.github.io/lavantamap/](https://15aliozkan.g
 
 --------------------------
 
-Öne Çıkan Özellikler
- Arazi, Su & Biyom Şekillendirme:** Poligon, serbest çizim kalemi ve kıyı fırçası ile ada oluşturma veya denize dönüştürme; iç göller, dere kanalları, ormanlık alanlar ve yükseltili sıradağlar ekleme.
--Tek Tıkla Prosedürel Üretim:** Otomatik rastgele adalar, geniş biyom kümeleri ve alçak katlı ana merkez ile çevre mahallelerden oluşan bağlantılı şehir ağları kurma.
--Akıllı Ulaşım Ağı & 3D Köprüler:** Otoyol, ana cadde, sokak ve demiryolu çizimi; mevcut yollara sınırdan otomatik kavşak bağlantısı ve su geçişlerinde otomatik 3D köprü rampaları.
--3D Yapılar & Özel Tesisler:** Yola otomatik hizalanan ve birbirleriyle çakışmayan 3D binaların yanı sıra Belediye Binası (`U`, `L`, `I` plan), Hastane, Okul Kampüsü, Şehir Parkı, Stadyum ve Kent Meydanı yerleştirme.
--Kesintisiz 2D ↔ 3D Kamera Geçişi:** `0°` kuşbakışı 2D görünümden `65°` 3D izometrik açıya kadar hassas eğim ve dönüş kontrolü; gece modunda yanan pencere ışıkları.
--Otonom Trafik Simülasyonu:** Yol ağı üzerinde çift yönlü hareket eden ve hızı ayarlanabilen canlı araç trafiği.
--Gerçek Zamanlı Yüzölçümü (`km²`) & Hafıza:** Birbirine bağlanan adaların toplam alanını anlık hesaplama, işlem geçmişi takibi, `Ctrl+Z` geri alma desteği ve tarayıcı içi otomatik kayıt.
--Yüksek Çözünürlüklü PNG Dışa Aktarma:** Mevcut 3D kamera açısından veya tüm haritayı kapsayan 2D kuşbakışı modunda `HD` ile `4K` arası çözünürlüklerde, isteğe bağlı harita lejantı ile görsel indirme.
+Öne Çıkan Özellikler 
+
+🏝️ Arazi Su ve Biyom Şekillendirme:** Poligon serbest çizim kalemi ve kıyı fırçası ile ada oluşturma veya denize dönüştürme iç göller dere kanalları ormanlık alanlar ve yükseltili sıradağlar ekleme
+- **🎲 Tek Tıkla Prosedürel Üretim:** Otomatik rastgele adalar geniş biyom kümeleri ve alçak katlı ana merkez ile çevre mahallelerden oluşan bağlantılı şehir ağları kurma
+- **🛣️ Akıllı Ulaşım Ağı ve 3D Köprüler:** Otoyol ana cadde sokak ve demiryolu çizimi mevcut yollara sınırdan otomatik kavşak bağlantısı ve su geçişlerinde otomatik 3D köprü rampaları
+- **🏙️ 3D Yapılar ve Özel Tesisler:** Yola otomatik hizalanan ve birbirleriyle çakışmayan 3D binaların yanı sıra Belediye Binası U L I plan Hastane Okul Kampüsü Şehir Parkı Stadyum ve Kent Meydanı yerleştirme
+- **🧊 Kesintisiz 2D ve 3D Kamera Geçişi:** 0 derece kuşbakışı 2D görünümden 65 derece 3D izometrik açıya kadar hassas eğim ve dönüş kontrolü gece modunda yanan pencere ışıkları
+- **🚗 Otonom Trafik Simülasyonu:** Yol ağı üzerinde çift yönlü hareket eden ve hızı ayarlanabilen canlı araç trafiği
+- **📐 Gerçek Zamanlı Yüzölçümü km² ve Hafıza:** Birbirine bağlanan adaların toplam alanını anlık hesaplama işlem geçmişi takibi Ctrl+Z geri alma desteği ve tarayıcı içi otomatik kayıt
+- **📸 Yüksek Çözünürlüklü PNG Dışa Aktarma:** Mevcut 3D kamera açısından veya tüm haritayı kapsayan 2D kuşbakışı modunda HD ile 4K arası çözünürlüklerde isteğe bağlı harita lejantı ile görsel indirme
 
 
 
